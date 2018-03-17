@@ -4,6 +4,7 @@
 #include <string>
 #include <functional>
 #include <algorithm>
+#include <math.h>
 #include <memory>
 #include <chrono>
 #include <cstring>
